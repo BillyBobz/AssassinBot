@@ -1,0 +1,16 @@
+{
+  "name": "assassinbot",
+  "version": "1.0.0",
+  "description": "A bot for my friend Assassin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bilal",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "ms": "^2.1.1",
+    "npm": "^5.8.0"
+  }
+}
